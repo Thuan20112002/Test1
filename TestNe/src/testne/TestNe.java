@@ -19,7 +19,7 @@ public class TestNe {
         System.out.println("Chao thuan dep trai");
         System.out.print("Thuan dep trai");
         int a = 10, b = 10;
-        System.err.println(a + b);
+        System.err.println("result" + a + b);
     }
     
 }
