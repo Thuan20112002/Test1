@@ -18,6 +18,8 @@ public class TestNe {
         // TODO code application logic here
         System.out.println("Chao thuan dep trai");
         System.out.print("Thuan dep trai");
+        int a = 10, b = 10;
+        System.err.println("result" + a + b);
     }
     
 }
